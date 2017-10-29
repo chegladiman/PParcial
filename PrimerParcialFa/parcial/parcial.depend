@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1508717993 source:c:\users\facu\desktop\primerparcialfa\parcial\lib.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"lib.h"
+
+1508717958 c:\users\facu\desktop\primerparcialfa\parcial\lib.h
+
+1508712767 source:c:\users\facu\desktop\primerparcialfa\parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lib.h"
+
